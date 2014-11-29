@@ -1,0 +1,19 @@
+G04 DipTrace Beta 2.3.5.2*
+%INLulfroMiniBrush.GKO*%
+%MOIN*%
+%ADD11C,0.0055*%
+%FSLAX44Y44*%
+G04*
+G70*
+G90*
+G75*
+G01*
+%LNBoardOutline*%
+%LPD*%
+X-63Y-63D2*
+D11*
+Y9625D1*
+X9438D1*
+Y-63D1*
+X-63D1*
+M02*
